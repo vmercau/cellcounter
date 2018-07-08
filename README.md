@@ -19,79 +19,36 @@ Para instalar CellCounter se debe asegurar contar con una instalación de python
 * Imutils 0.4.6
 * Numpy 1.14.5
 
+
+
+Para realizar la instalación en un entorno Linux, ejecutar el siguiente comando en una terminal:
 ```bash
 pip2 install numpy opencv argparse imutils
 ```
 
-### Installing
+### Instalación
 
-A step by step series of examples that tell you how to get a development env running
+Al tratarse de un programa enteramente desarrollado en python, al tener todos los archivos del repositorio y las bibliotecas necesarias, el programa ya se encuentra en condiciones de ser ejecutado.
 
-Say what the step will be
+## Ejecución del programa
 
+La ejecución de CellCounter consta de ejecutar el siguiente comando en la terminal, en la carpeta contenedora del programa:
+
+```bash
+python2 contador_colonias.py -i <imagen de entrada> -o <imagen de salida>
 ```
-Give the example
+Por ejemplo:
+
+```bash
+python2 contador_colonias.py -i in.jpeg -o out.jpg
 ```
+**NOTA: Puede notar que el archivo *in.jpeg* ya viene incluido en el repositorio**
 
-And repeat
 
-```
-until finished
-```
+## Autora
 
-End with an example of getting some data out of the system or using it for a little demo
+* **Mariana Vanesa Mercau** - *Trabajo inicial y evolución del proyecto*
 
-## Running the tests
+## Licencia
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+Este proyeccto esta licenciado bajo la Licencia MIT - vea el [LICENSE.md](LICENSE.md) para mas detalles
