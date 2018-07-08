@@ -57,6 +57,9 @@ Se obtendra como resultado:
 54 colonies
 159 loops
 ```
+Donde, **54 colonies** indica la cantidad de colonias contadas y **159 loops** la cantidad de iteraciones necesarias para lograr el conteo mas eficiente.
+
+
 
 Y se generará la imagen *out.jpg* en la cual se podrán observar las colonias que pudieron ser contadas marcadas con un círculo verde.
 
