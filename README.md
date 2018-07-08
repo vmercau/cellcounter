@@ -74,4 +74,4 @@ Y se generará la imagen *out.jpg* en la cual se podrán observar las colonias q
 
 ## Licencia
 
-Este proyeccto esta licenciado bajo la Licencia MIT - vea el [LICENSE.md](LICENSE.md) para mas detalles
+Este proyeccto esta licenciado bajo la Licencia MIT - vea el [LICENSE](LICENSE) para mas detalles
