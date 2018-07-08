@@ -39,12 +39,26 @@ python2 contador_colonias.py -i <imagen de entrada> -o <imagen de salida>
 ```
 Por ejemplo:
 
+Tomando como referencia la imagen *in.jpeg* 
+![alt text](https://raw.githubusercontent.com/vmercau/cellcounter/master/in.jpeg)
+
+ejecutar el siguiente comando:
+
 ```bash
 python2 contador_colonias.py -i in.jpeg -o out.jpg
 ```
 **NOTA: Puede notar que el archivo *in.jpeg* ya viene incluido en el repositorio**
 
 
+Se obtendra como resultado:
+
+```bash
+54 colonies
+159 loops
+```
+
+Y se generará la imagen *out.jpg* en la cual se podrán observar las colonias que pudieron ser contadas marcadas con un círculo verde.
+![alt text](https://raw.githubusercontent.com/vmercau/cellcounter/master/out.jpg)
 ## Autora
 
 * **Mariana Vanesa Mercau** - *Trabajo inicial y evolución del proyecto*
