@@ -39,7 +39,8 @@ python2 contador_colonias.py -i <imagen de entrada> -o <imagen de salida>
 ```
 Por ejemplo:
 
-Tomando como referencia la imagen *in.jpeg* 
+Tomando como referencia la imagen *in.jpeg*
+ 
 ![alt text](https://raw.githubusercontent.com/vmercau/cellcounter/master/in.jpeg)
 
 ejecutar el siguiente comando:
@@ -58,6 +59,7 @@ Se obtendra como resultado:
 ```
 
 Y se generará la imagen *out.jpg* en la cual se podrán observar las colonias que pudieron ser contadas marcadas con un círculo verde.
+
 ![alt text](https://raw.githubusercontent.com/vmercau/cellcounter/master/out.jpg)
 ## Autora
 
