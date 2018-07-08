@@ -9,15 +9,18 @@ Para obtener el software e iniciar su instalación basta con clonar el repositor
 Ejecutar el siguiente comando:
 ```bash
 git clone https://github.com/vmercau/cellcounter.git
-alert(s);
 ```
 
-### Prerequisites
+### Prerequisitos
 
-What things you need to install the software and how to install them
+Para instalar CellCounter se debe asegurar contar con una instalación de python 2.7 y las bibliotecas:
+* OpenCV 3.4.1.15
+* Argparse 1.4.0
+* Imutils 0.4.6
+* Numpy 1.14.5
 
-```
-Give examples
+```bash
+pip2 install numpy opencv argparse imutils
 ```
 
 ### Installing
