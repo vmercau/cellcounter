@@ -2,7 +2,9 @@
 
 CellCounter es un software desarrollado para contar unidades formadoras de colonias (UFC) obtenidas de análisis de viabilidad de las células sometidas a diferentes tratamientos.
 
-La motivación de su desarrollo es debida a que en el día a día, contar las UFC en forma manual es una tarea lenta y repetitiva; además del alto grado de error humano al momento de contar.
+## Motivación
+
+Contar las UFC en forma manual es una tarea lenta y repetitiva; además del alto grado de error humano al momento de contar.
 Para alivianar esta tarea, se programó este sistema, capaz de analizar imágenes de UFCs, aplicarles varios filtros, y finalmente, generar una imagen igual a la original, pero indicando las colonias que logró analizar como una unidad.
 
 
