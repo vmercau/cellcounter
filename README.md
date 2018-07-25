@@ -29,7 +29,7 @@ Para instalar CellCounter se debe asegurar contar con una instalación de python
 
 Para realizar la instalación en un entorno Linux, ejecutar el siguiente comando en una terminal:
 ```bash
-pip2 install numpy opencv argparse imutils
+pip2 install numpy opencv-python argparse imutils
 ```
 
 ### Instalación
